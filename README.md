@@ -22,52 +22,50 @@ ID3 stands for Iterative Dichotomiser 3 and is named such because the algorithm 
 
 #==========================================================Data==========================================================
 # Number of Instances:	
-# 653
+653
 # Number of Attributes:
-# 35 numeric, predictive attributes and the class
+35 numeric, predictive attributes and the class
 
 # Attribute Information:
 
-# We have 35 variables for 653 counties, including demographics, covid info, previous election 
-# results, work related information.
-# percentage16_Donald_Trump	
-# percentage16_Hillary_Clinton	
-# total_votes20	
-# latitude	
-# longitude	
-# Covid Cases/Pop	
-# Covid Deads/Cases	
-# TotalPop	
-# Women/Men
-# Hispanic
-# White	
-# Black	
-# Native	
-# Asian	
-# Pacific	
-# VotingAgeCitizen	
-# Income	
-# ChildPoverty	
-# Professional	
-# Service	
-# Office	
-# Construction	
-# Production	
-# Drive	
-# Carpool	
-# Transit	
-# Walk	
-# OtherTransp	
-# WorkAtHome	
-# MeanCommute	
-# Employed	
-# PrivateWork	
-# SelfEmployed	
-# FamilyWork	
-# Unemployment
+We have 35 variables for 653 counties, including demographics, covid info, previous election 
+results, work related information.
+percentage16_Donald_Trump	
+percentage16_Hillary_Clinton	
+total_votes20	
+latitude	
+longitude	
+Covid Cases/Pop	
+Covid Deads/Cases	
+TotalPop	
+Women/Men
+Hispanic
+White	
+Black	
+Native	
+Asian	
+Pacific	
+VotingAgeCitizen	
+Income	
+ChildPoverty	
+Professional	
+Service	
+Office	
+Construction	
+Production	
+Drive	
+Carpool	
+Transit	
+Walk	
+OtherTransp	
+WorkAtHome	
+MeanCommute	
+Employed	
+PrivateWork	
+SelfEmployed	
+FamilyWork	
+Unemployment
 
 
 # Class Distribution:
-# 328 - Candidate A (1), 325 - Candidate B (0)
-#========================================================================================================================
-
+328 - Candidate A (1), 325 - Candidate B (0)
